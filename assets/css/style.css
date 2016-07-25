@@ -1,0 +1,63 @@
+body{
+	background-color: #e5e5e5;
+}
+.black{
+	background-color: black;
+	background:rgba(0,0,0,0.5);	height: 50px;
+}
+.black a{
+	color:white;
+}
+.hover{
+	transition:0.2s ease;
+	z-index: 2;
+}
+.hover:hover{
+	background-color:#f4f4f4;	
+	margin-top: 5px;
+}
+p{
+	color: grey;
+}
+.footer{
+	background-color: #191919;
+}
+.inputcontact{
+	background-color: #e5e5e5
+}
+.blue{
+	color:#329999;
+}
+.teal{
+	background-color: #329999;
+	color:white;
+}
+.teal:hover{
+	color:white;
+	background-color: #4ca6a6;
+}
+.grey{
+	color: #868686;
+}
+.white{
+	color:white;
+}
+.b_blue{
+	background-color: #329999;
+	background:rgba(5,121,101);
+	padding-bottom: 20px;
+	border-radius: 10px;
+	color:white;
+}
+.jumbotron{
+	background:url(../images/gambar3.jpg) no-repeat center center;
+	background-size: cover;	padding:0px;
+	margin-bottom: 0px;
+}
+.blur{
+	background-color: black;
+	background:rgba(0,0,0,0.7);	margin: 0px;padding:0px;
+}
+.orange{
+	background-color: #15635a;
+}
